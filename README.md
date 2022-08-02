@@ -4,6 +4,6 @@
 
 #### попробовать сыграть
 
-```
+
 https://shalygin-sergey.github.io/Aim-training/
-```
+
